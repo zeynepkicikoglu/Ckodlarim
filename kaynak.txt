@@ -1,0 +1,10 @@
+zeynep kicikoglu  medeniyetuniversitesi bilgisayarmuhendisligi    211    95  100   
+ece yilmaz        medeniyetuniversitesi yazilimmuhendisligi       123    80   80   
+murat kacak       medeniyetuniversitesi isletmemuhendisligi       125    60   70   
+apo bulbul        medeniyetuniversitesi mekatronikmuhendisligi    345    65   75   
+aysu sahbaz       medeniyetuniversitesi endustrimuhendisligi      123    90   90   
+mina eren         medeniyetuniversitesi elektrikmuhendisligi      245    78   80   
+melisa cicekci    medeniyetuniversitesi endustrimuhendisligi      987    60   80  
+mustafa hekim     medeniyetuniversitesi elektronikmuhendisligi    909    20   10   
+mehmet mutlu      medeniyetuniversitesi gemimuhendisligi          678    50   90
+ahmet kurek       medeniyetuniversitesi insaatmuhendisligi        567    40   60
